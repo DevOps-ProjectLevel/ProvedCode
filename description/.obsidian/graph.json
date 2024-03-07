@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:Network",
+      "color": {
+        "a": 1,
+        "rgb": 9919202
+      }
+    },
+    {
+      "query": "tag:Computing ",
+      "color": {
+        "a": 1,
+        "rgb": 15379764
+      }
+    },
+    {
+      "query": "tag:Automation ",
+      "color": {
+        "a": 1,
+        "rgb": 16214377
+      }
+    },
+    {
+      "query": "tag:DataBase",
+      "color": {
+        "a": 1,
+        "rgb": 5593836
+      }
+    },
+    {
+      "query": "tag:Service",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:Security ",
+      "color": {
+        "a": 1,
+        "rgb": 16711731
+      }
+    },
+    {
+      "query": "tag:#Administration",
+      "color": {
+        "a": 1,
+        "rgb": 16334507
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 1.8609375,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 9.375,
+  "linkStrength": 1,
+  "linkDistance": 206,
+  "scale": 0.535979599622602,
+  "close": false
+}

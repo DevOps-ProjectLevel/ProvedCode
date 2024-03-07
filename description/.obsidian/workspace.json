@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "5cf8f8dd3de02089",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b59b3b3168aca80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44540d2c956c0dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f6cd572214151b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "226c90278b23b46f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1627adbffbd70c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3d59a4bb1218a28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fab89551ed228f21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "7ca19b4cd9c56274",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a6c20c622cd975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a004caa65a8112d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker Infrastructure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1afd1187dad7ba70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker Infrastructure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fddacbdd75f46c12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbc7b0f61f794c70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker Infrastructure.md"
+              }
+            }
+          },
+          {
+            "id": "c240fd5d0e7f1bdb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "44540d2c956c0dfd",
+  "lastOpenFiles": [
+    "Local Infrastructure.md",
+    "Docker Infrastructure.md",
+    "Local Infrastructure 1.md",
+    "Sources/Pasted image 20240208213455.png",
+    "Sources/Pasted image 20240208183258.png",
+    "Sources/Pasted image 20240208175258.png",
+    "Sources/docker infrastucture 1.jpg",
+    "Sources/docker infrastucture.jpg",
+    "Sources/docker infrastucture.png",
+    "Sources/Pasted image 20240208112152.png",
+    "Sources/Pasted image 20240208112013.png",
+    "Sources/Pasted image 20240208111957.png",
+    "2024-02-06.md",
+    "Sources/Pasted image 20230812232240.png",
+    "AWS Networking.md",
+    "npm.md",
+    "Java.md",
+    "EC2 or Virtual machine.md",
+    "Build Agent For Jenkins.md",
+    "PostgreSQL.md",
+    "credentials/S3-access-user_accessKeys.csv",
+    "credentials/S3-access-user_accessKeys.csv.crdownload",
+    "credentials/New folder",
+    "credentials",
+    "New folder",
+    "Nginx Web Server.md",
+    "EC2 1.md",
+    "EC2.md",
+    "[[EC2.md",
+    "[[AWS.md",
+    "Site to Site VPN.md",
+    "Ansible for AWS.md",
+    "IPv6.md",
+    "AWS Cost Optimization.md",
+    "AWS Elastic Beanstalk.md",
+    "AWS CloudTrail.md",
+    "AWS CloudFormation.md",
+    "AWS Auto Scaling Groups.md",
+    "AWS Architectures.md",
+    "Application Load Balancer.md",
+    "Ansible Roles.md",
+    "Без назви",
+    "Sources/Без назви.canvas",
+    "Без назви.canvas",
+    "Без назви 1.canvas",
+    "Без назви 2.canvas",
+    "Sources"
+  ]
+}
